@@ -1,0 +1,111 @@
+{
+  "labels": [
+    { "id": "pork", "label": "Pork" },
+    { "id": "seafood", "label": "Seafood" },
+    { "id": "kids", "label": "Kids" },
+    { "id": "chicken", "label": "Chicken" },
+    { "id": "beef", "label": "Beef" },
+    { "id": "vegetarian", "label": "Vegetarian" },
+    { "id": "breakfast", "label": "Breakfast" }
+  ],
+  "meals": [
+    {
+      "id": "meal1",
+      "title": "3 course chicken",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 9.99,
+      "labels": ["chicken", "breakfast"],
+      "img": "https://unsplash.com/photos/XaDsH-O2QXs/download?force=true&w=640",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    },
+    {
+      "id": "meal2",
+      "title": "3 course Beef",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": ["beef"],
+      "img": "https://unsplash.com/photos/TvMWBS6TIsg/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8QmVlZiUyMG1lYWx8ZW58MHx8fHwxNzIwNTkxMzAyfDA&force=true",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    },
+    {
+      "id": "meal3",
+      "title": "3 course Vegetarian",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 79.99,
+      "labels": ["vegetarian"],
+      "img": "https://unsplash.com/photos/ddZYOtZUnBk/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTl8fHZlZ2l0YXJpYW4lMjBmb29kfGVufDB8MHx8fDE3MjA2MTc5Mzd8Mg&force=true",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    },
+    {
+      "id": "meal4",
+      "title": "3 course Seafood",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 49.99,
+      "labels": ["seafood"],
+      "img": "https://unsplash.com/photos/JZ3uB5FMYqs/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8c2VhZm9vZCUyMG1lYWx8ZW58MHx8fHwxNzIwNTkxNDU0fDA&force=true",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    },
+    {
+      "id": "meal5",
+      "title": "3 course Pork",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 39.99,
+      "labels": ["pork"],
+      "img": "https://unsplash.com/photos/0wTjGSeZlmk/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8OHx8cG9yayUyMG1lYWx8ZW58MHx8fHwxNzIwNTkxNDk5fDA&force=true",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    },
+    {
+      "id": "meal6",
+      "title": "3 course Kids",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 29.99,
+      "labels": ["kids", "breakfast"],
+      "img": "https://unsplash.com/photos/0aQuUvhlvvk/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8N3x8a2lkcyUyMG1lYWx8ZW58MHx8fHwxNzIwNTkxNTM3fDA&force=true",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    },
+    {
+      "id": "meal7",
+      "title": "3 course Chicken 2",
+      "starter": "Lorem Ipsum",
+      "desert": "Cake",
+      "price": 19.99,
+      "labels": ["chicken"],
+      "img": "https://unsplash.com/photos/xMbtXlkqjt4/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NHx8Y2hpY2tlbiUyMG1lYWx8ZW58MHx8fHwxNzIwNTE3Mzc4fDA&force=true",
+      "drinks": [
+        { "id": "drink-1", "title": "Wine", "price": 4.99, "icon": "https://upload.wikimedia.org/wikipedia/en/c/c0/Red_Wine_Glass.jpg" },
+        { "id": "drink-2", "title": "Juice", "price": 5.99, "icon": "https://www.collinsdictionary.com/images/full/fruitjuice_148446767.jpg" },
+        { "id": "drink-3", "title": "Beer", "price": 6.99, "icon": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532" }
+      ]
+    }
+  ]
+}
